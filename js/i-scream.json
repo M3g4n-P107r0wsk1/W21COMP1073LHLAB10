@@ -1,0 +1,66 @@
+{
+  "companyName" : "I Scream Inc.",
+  "headOffice" : "South Pole, Antarctica",
+  "established" : 2001,
+  "active" : true,
+  "topFlavors" : [
+    {
+      "name" : "Monstrous Mint",
+      "calories" : 400,
+      "type": "ice cream",
+      "ingredients" : [
+        "peppermint cream",
+        "dark chocolate chips",
+        "vanilla extract"
+      ],
+      "image" : "chocolate-mint.svg"
+    },
+    {
+      "name" : "Perfect Peach Mango",
+      "calories" : 350,
+      "type" : "sorbet",
+      "ingredients" : [
+        "peach purée",
+        "mango chunks",
+        "clover honey"
+      ],
+      "image" : "peach-mango.svg"
+    },
+	{
+		"name" : "Stupendous Strawberry",
+		"calories" : 450,
+		"type" : "frozen yogurt",
+		"ingredients" : [
+			"wild strawberries",
+			"milk chocolate dip",
+			"candy sprinkles"
+		],
+		"image" : "strawberry-sprinkle.svg"
+	},
+	{
+		"name" : "Slimey Limey",
+		"calories" : 270,
+		"type" : "sorbet",
+		"ingredients" : [
+			"fresh lime juice",
+			"green apple chunks",
+			"honeydew purée",
+			"rainbow slime balls"
+		],
+		"image" : "slimey-limey.svg"
+	},
+	{
+		"name" : "Refreshing Rainforest",
+		"calories" : 310,
+		"type" : "frozen yogurt",
+		"ingredients" : [
+			"banana slices",
+			"dragon fruit purée",
+			"pear chunks",
+			"brazil nuts",
+			"dried coconut chunks"
+		],
+		"image" : "refreshing-rainforest.svg"
+	}
+  ]
+}
